@@ -1,0 +1,10 @@
+def oyunmenu():
+    print("╔══════════════════════════════╗")
+    print("║            OYUNLAR           ║")
+    print("║                              ║")
+    print("║        1-Yılan Oyunu         ║")
+    print("║        2-Sayı Tahmin         ║")
+    print("║        3-Yazı-Tura           ║")
+    print("║       Seçiminiz Nedir?       ║")
+    print("╚══════════════════════════════╝")
+    secim=input()
